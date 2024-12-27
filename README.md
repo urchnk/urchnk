@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**urchnk/urchnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👤 My name is Viktor Yurchenko, and I am a Python dev from Ukraine, currently based in Vienna, Austria. 
 
-Here are some ideas to get you started:
+💻 I am passionate about building REST APIs and web-services. Also try to move to the FullStack area.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Tech Stack:
+ - Python
+ - Django (+DRF)
+ - FastAPI
+ - Postgres
+ - AWS
+ - Heroku
+ - CI/CD
+ - Celery
+ - basic React (+ React Native)
+
+🔭 I’m currently looking for a Python Developer job in Vienna or remote (and I can also consider relocating to another EU/EEA country).
+
+📫 How to reach me:
+- 📬 urchnk@gmail.com
+- 🪪 https://www.linkedin.com/in/urchnk/
+
